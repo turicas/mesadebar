@@ -45,4 +45,13 @@
 - http://www.gevent.org/
 - http://www.lua.org/
 - https://docs.python.org/3/library/asyncio.html
-
+- http://nodejs.org/
+- https://pragprog.com/book/cfcar2/the-passionate-programmer
+- https://github.com/vinta/awesome-python#concurrency-and-networking
+- http://www.erlang.org/
+- https://www.haskell.org/
+- http://elixir-lang.org/
+- http://shop.oreilly.com/product/0636920032519.do
+- https://github.com/avelino/beerblogging
+- http://pythonclub.com.br/
+- https://twitter.com/clubedosposts
