@@ -55,3 +55,4 @@
 - https://github.com/avelino/beerblogging
 - http://pythonclub.com.br/
 - https://twitter.com/clubedosposts
+- http://www.meetup.com/Belo-Horizonte-Python-User-Group/
