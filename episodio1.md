@@ -57,3 +57,4 @@
 - https://twitter.com/clubedosposts
 - http://www.meetup.com/Belo-Horizonte-Python-User-Group/
 - http://guiame.com.br/
+- http://www.eventick.com.br/open-talks
