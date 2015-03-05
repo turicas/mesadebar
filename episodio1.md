@@ -59,3 +59,4 @@
 - http://guiame.com.br/
 - http://www.eventick.com.br/open-talks
 - http://sjchackerclube.github.io/
+- http://softwarelivre.org/fisl16
