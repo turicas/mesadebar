@@ -62,3 +62,5 @@
 - http://softwarelivre.org/fisl16
 - http://www.quora.com/What-advice-would-Jimmy-Wales-give-to-the-young-generation/answer/Jimmy-Wales
 - https://github.com/henriquebastos/curtopodcast
+- https://www.facebook.com/events/1572496593001458/
+- https://www.youtube.com/watch?v=_epbbR4EtYw - Carlos Glória
