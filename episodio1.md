@@ -22,5 +22,27 @@
 - http://git-scm.com/
 - https://github.com/
 - https://travis-ci.org/recent
-- Fábio Akita - Rupy 2014 - https://www.youtube.com/watch?v=gIqtp5lBTcg
+- https://www.youtube.com/watch?v=gIqtp5lBTcg - Fábio Akita - Rupy 2014
 - http://mercurial.selenic.com/
+
+### Sugestão de projetos python para iniciantes, para efeito de estudos
+
+- https://github.com/pythonprobr/pythonbirds
+- https://pypi.python.org/pypi/bottle-boilerplate/0.1
+- http://flask.pocoo.org/
+- http://bottlepy.org/docs/dev/index.html
+- https://www.djangoproject.com/
+- http://www.pylonsproject.org/
+- http://pycursos.com/
+- http://ctnovatec.com.br/cursos/trilha-python/curso-python-birds/
+- https://scratch.mit.edu/
+
+### Event-driven programming: O que temos além de Tornado e Twisted?
+
+- http://www.tornadoweb.org/en/stable/
+- http://leafo.net/lapis/
+- https://golang.org/
+- http://www.gevent.org/
+- http://www.lua.org/
+- https://docs.python.org/3/library/asyncio.html
+
