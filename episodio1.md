@@ -61,3 +61,4 @@
 - http://sjchackerclube.github.io/
 - http://softwarelivre.org/fisl16
 - http://www.quora.com/What-advice-would-Jimmy-Wales-give-to-the-young-generation/answer/Jimmy-Wales
+- https://github.com/henriquebastos/curtopodcast
