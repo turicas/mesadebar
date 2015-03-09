@@ -12,6 +12,8 @@
 ### Segundos passos com Django, pra onde seguir depois de aprender o hello world.
 
 - Python para zumbis - http://pycursos.com/python-para-zumbis/
+- https://alexgaynor.net/
+- http://www.pydanny.com/
 - Welcome to the Django - http://welcometothedjango.com.br/
 - godjango.com
 - https://medium.com/@mackenziechild/how-i-finally-learned-rails-95e9b832675b
