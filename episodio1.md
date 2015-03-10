@@ -18,6 +18,8 @@
 - godjango.com
 - https://medium.com/@mackenziechild/how-i-finally-learned-rails-95e9b832675b
 - https://ericstk.wordpress.com/2013/12/20/como-aprender-sozinho-na-pratica-sem-desanimar/
+- fazer um blog - http://tutorial.djangogirls.org/en/index.html
+- fazer votação de coisas - https://docs.djangoproject.com/en/1.7/intro/tutorial01/
 
 ### Estruturação de ambientes de desenvolvimento para sistemas legados (Git, PR, Travis)
 
