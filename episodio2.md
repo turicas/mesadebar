@@ -4,7 +4,6 @@
 
 - Formas de melhorar seus conhecimentos e crescer em sua carreira
 
-
 ### Formas de melhorar seus conhecimentos e crescer em sua carreira
 
 - Projetos open source são fundamentais para colocar em seu currículo
@@ -18,3 +17,15 @@
 
 StrictMode.ThreadPolicy policy = new StrictMode.ThreadPolicy.Builder().permitAll().build();
 StrictMode.setThreadPolicy(policy);
+
+### Linguagem Go
+
+- https://golang.org/
+- import github.com/avelino/golerolero
+- http://awesome-go.com/
+
+### GDG
+
+- https://developers.google.com/experts/
+
+Contato para vagas em Go: thiago@avelino.xxx
