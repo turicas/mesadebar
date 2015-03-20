@@ -1,4 +1,4 @@
-# Episódio 1
+# [Episódio 1](https://www.youtube.com/watch?v=sUKQd-GGH3g)
 
 ## Assuntos que serão abordados
 
