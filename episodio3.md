@@ -46,3 +46,4 @@ Esse vermelho é o Mayck. =)
 
 - http://welcometothedjango.com.br/
 
+- http://ctnovatec.com.br/cursos/trilha-python/curso-python-birds/
