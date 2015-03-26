@@ -1,6 +1,4 @@
-# [Trabalho home office - Episódio 3](https://www.youtube.com/watch?v=GPhH6t52veU)
-
-[Issue de assunto](https://github.com/erichideki/mesadebar/issues/5)
+# [Episódio 3]
 
 ## Assuntos que serão abordados
 
@@ -29,9 +27,14 @@ Assuntos:
 - [off] Alguém trabalha para o exterior como prestador de serviços?
 
 https://github.com/tapajos/trabalhando_fora
+
 https://github.com/DyegoCosta/trabalhando-remoto
 
-- http://tomato.es
+http://www.negotiations.com/articles/geeks-earning-more/
+
+https://news.google.com/newspapers?nid=1046&dat=20000414&id=xkwlAAAAIBAJ&sjid=5RQGAAAAIBAJ&pg=2935,940433&hl=en
+
+tomato.es
 
 Perguntas e Respostas:
 
