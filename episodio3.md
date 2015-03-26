@@ -31,7 +31,7 @@ Assuntos:
 https://github.com/tapajos/trabalhando_fora
 https://github.com/DyegoCosta/trabalhando-remoto
 
-tomato.es
+- http://tomato.es
 
 Perguntas e Respostas:
 
