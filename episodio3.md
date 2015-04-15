@@ -1,6 +1,10 @@
 # [Episódio 3](https://www.youtube.com/watch?v=GPhH6t52veU)
 
-## Assuntos que serão abordados
+## Gravação:
+
+Assista a gravação em: https://www.youtube.com/watch?v=GPhH6t52veU
+
+## Assuntos abordados
 
 - Vantagens e desvantagens do home office
 - MEI, CLT ou PJ? 
@@ -47,3 +51,13 @@ Esse vermelho é o Mayck. =)
 - http://welcometothedjango.com.br/
 
 - http://ctnovatec.com.br/cursos/trilha-python/curso-python-birds/
+ 
+## Artigos:
+
+- https://osantana.me/programador-freelancer/
+
+- https://osantana.me/trabalho-remoto/
+ 
+# Comentários diversos:
+
+veja em: https://github.com/erichideki/mesadebar/issues/5
