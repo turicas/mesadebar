@@ -6,8 +6,8 @@ Artigo sobre desenvolvimento, ferramentas e frameworkd: http://thegodclass.tumbl
 
 - Como trabalhar com ego?
 
-##Por que a arquitetura de um software é tão importante?
+###Por que a arquitetura de um software é tão importante?
 
-##Quando utilizar um framework?
+###Quando utilizar um framework?
 
-##E quando eu começo a gostar de framework x mas ele não tem mercado. O que fazer?
+###E quando eu começo a gostar de framework x mas ele não tem mercado. O que fazer?
