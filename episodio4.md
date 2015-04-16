@@ -9,3 +9,4 @@ Artigo sobre desenvolvimento, ferramentas e frameworkd: http://thegodclass.tumbl
 - Quando utilizar um framework?
 - E quando eu começo a gostar de framework x mas ele não tem mercado. O que fazer?
 - Qual desktop (sistema) utilizar?
+- Gubuntu - http://en.wikipedia.org/wiki/Goobuntu
