@@ -1,8 +1,7 @@
-<<<<<<< HEAD
+
 #[O mundo nao se resume a Django, Rails e Zend](https://www.youtube.com/watch?v=JcfjzzfCRE0)
 =======
 #O mundo nao se resume a Django, Rails e Zend
->>>>>>> a35a304cb52e5a40af8d8ec87ad2ece31cb83d01
 
 Artigo sobre desenvolvimento, ferramentas e frameworkd: http://thegodclass.tumblr.com/post/52230630696/desenvolvimento-com-frameworks-bom-ou-mau
 
