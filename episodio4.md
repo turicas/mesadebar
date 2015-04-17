@@ -1,6 +1,6 @@
 #[O mundo nao se resume a Django, Rails e Zend](https://www.youtube.com/watch?v=JcfjzzfCRE0)
 
-Artigo sobre desenvolvimento, ferramentas e frameworkd: http://thegodclass.tumblr.com/post/52230630696/desenvolvimento-com-frameworks-bom-ou-mau
+Artigo sobre desenvolvimento, ferramentas e frameworks: http://thegodclass.tumblr.com/post/52230630696/desenvolvimento-com-frameworks-bom-ou-mau
 
 - Você chega em uma empresa que usa framework x, mas gosto do framework y. Como convencer meus colegas de trabalho para usarem o framework y?
 
