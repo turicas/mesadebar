@@ -1,8 +1,8 @@
 #[Entrevista com a Julyane da DjangoGirls](https://www.youtube.com/watch?v=QFCfdrNLS3I)
 
-## [Django Girls Niterói](http://djangogirls.org/niteroi/)
+### [Django Girls Niterói](http://djangogirls.org/niteroi/)
 
-## [Facebook page da Django Girls](https://www.facebook.com/djangogirlsniteroi)
+### [Facebook page da Django Girls](https://www.facebook.com/djangogirlsniteroi)
 
 ### [Como organizar uma Django Girls em sua região](https://github.com/pyladies-brazil/organizer-manual/tree/master/pt-br)
 
