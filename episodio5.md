@@ -4,6 +4,8 @@
 
 ## [Facebook page da Django Girls](https://www.facebook.com/djangogirlsniteroi)
 
+### [Como organizar uma Django Girls em sua região](https://github.com/pyladies-brazil/organizer-manual/tree/master/pt-br)
+
 ![DjangoGirls](/fotos/djangogirls1.jpg)
 ![DjangoGirls](/fotos/djangogirls2.jpg)
 ![DjangoGirls](/fotos/djangogirls3.jpg)
