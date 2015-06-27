@@ -10,4 +10,4 @@
 ![DjangoGirls](/fotos/djangogirls4.jpg)
 ![DjangoGirls](/fotos/djangogirls5.jpg)
 ![DjangoGirls](/fotos/djangogirls6.jpg)
-![DjangoGirls](/fotos/djangogirls7.jpg)
+![DjangoGirls](/fotos/djangogirls7.png)
